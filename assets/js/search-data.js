@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/call-for-submission/";
           },
+        },{id: "nav-ml-challenge",
+          title: "ML Challenge",
+          description: "Details and submission information for the 1st OFC 2026 ML Challenge.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/ml-challenge/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
