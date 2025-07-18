@@ -31,38 +31,8 @@ Especially under dynamic channel loading conditions. Recently, researchers achei
 
 ## Dataset repo 
 - We will provide all the codes for pre-processing the measurements data and a simple ML-based model just for reference
-- Please refer to the [dataset website]() for more details
+- Please refer to the [dataset website](https://github.com/optica-ml-challenge/OFC-ML-Challenge) for more details
 
-## Important Dates
 
-- **Competition launch with dataset and instructions release**: Sept. 15, 2025
-- **Submission deadline**: Dec. 15, 2025
-- **Results announced**: Mar. 15, 2026
-<!-- - **Live competition and winners announced**: During OFC 2026 (Mar. 15–19) -->
 
-## Prizes
-
-- **Invited papers** from the ML Challenge winner to the **IEEE/Optica Journal of Lightwave Technology(JLT)**
-- A **dedicated repository** for hosting all the ML Challenge results and the leaderboard
-- Prizes (e.g., GPUs supported by Industry) support research for the future
-
-## Materials
-
-In **Phase 1** (prior to OFC), we invite ML Challenge submissions using the existing public COSMOS and OpenIreland [datasets](https://github.com/functions-lab/COSMOS-EDFA-Dataset). The submissions will be evaluated by a dedicated committee and student volunteers, who must declare any conflict of interest (COI) with competing teams, based on accuracy. 
-
-<!-- - **Innovation**: Novel approaches and techniques used in developing the ML models;
-- **Accuracy**: Average accuracy and tail accuracy of the developed ML models;
-- **Efficiency**: Computational and training efficiency of the proposed solutions, and the amount of training data required to achieve the target accuracy performance. -->
-
-## Submission Details
-
-submit to google form [here](mailto:zehao.w@duke.edu).
-
-For detailed submission guidelines and technical specifications, please refer to the challenge documentation and FAQ section. -->
-
-## Questions?
-
-If you have any questions about the challenge, submission process, or technical requirements, please don't hesitate to reach out:
-
-**Contact**: [zehao.w@duke.edu](mailto:zehao.w@duke.edu)
 
