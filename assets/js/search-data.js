@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-call-for-submission",
           title: "Call for Submission",
-          description: "Detailed submission guidelines for the Optica ML Challenge.",
+          description: "Detailed submission guidelines for the OFC-ML-challenge.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/call-for-submission/";
