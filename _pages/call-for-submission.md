@@ -2,14 +2,14 @@
 layout: page
 title: Call for Submission
 permalink: /call-for-submission/
-description: Detailed submission guidelines for the Optica ML Challenge.
+description: Detailed submission guidelines for the OFC-ML-challenge.
 nav: true
 nav_order: 2
 ---
 
 # Call for Submission
 
-Welcome to the submission portal for the Optica ML Challenge!
+Welcome to the submission portal for the OFC ML Challenge!
 
 ## Submission Guidelines
 

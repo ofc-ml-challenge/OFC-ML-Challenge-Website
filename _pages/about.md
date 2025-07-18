@@ -20,7 +20,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the **Optica ML Challenge**!
+Welcome to the **OFC ML Challenge**!
 
 This is an official Optica event and part of the **OFC (Optical Fiber Communication Conference)** series. The challenge brings together researchers, engineers, and data scientists to tackle real-world problems in optical communications through both theretical, analytical and machine learning model.
 
