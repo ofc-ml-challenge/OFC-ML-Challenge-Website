@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/al-folio/";
     },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-call-for-submission",
+          title: "Call for Submission",
+          description: "Detailed submission guidelines for the Optica ML Challenge.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/al-folio/call-for-submission/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
