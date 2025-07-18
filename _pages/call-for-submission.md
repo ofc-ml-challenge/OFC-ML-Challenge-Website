@@ -35,8 +35,10 @@ Welcome to the submission portal for the OFC ML Challenge!
 - Include model inference time for efficiency evaluation
 
 ### 5. Important Dates
-- **Submission Deadline**: December 31st, 2025
-- **Acceptance Notification**: December 31st, 2025
+- **Competition launch with dataset and instructions release**: Sept. 15, 2025
+- **Submission deadline**: Dec. 15, 2025
+- **Finalists announced**: Jan. 15, 2026
+- **Live competition and winners announced**: During OFC 2026 (Mar. 15–19)
 
 ## Questions?
 If you have any questions about the submission process, please contact:

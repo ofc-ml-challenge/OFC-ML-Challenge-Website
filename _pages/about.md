@@ -45,8 +45,10 @@ EDFA gain profile prediction is crucial for:
 
 ## Important Dates
 
-- **Submission Deadline**: December 31st, 2025
-- **Acceptance Notification**: December 31st, 2025
+- **Competition launch with dataset and instructions release**: Sept. 15, 2025
+- **Submission deadline**: Dec. 15, 2025
+- **Finalists announced**: Jan. 15, 2026
+- **Live competition and winners announced**: During OFC 2026 (Mar. 15–19)
 
 ## Submission Details
 
