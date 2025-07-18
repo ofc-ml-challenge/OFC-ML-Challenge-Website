@@ -2,21 +2,13 @@
 layout: page
 title: ML Challenge
 permalink: /ml-challenge/
-description: Details and submission information for the 1st OFC 2026 ML Challenge.
+# description: Details and submission information for the 1st OFC 2026 ML Challenge.
 nav: true
 nav_order: 2
 ---
 
-# 1st OFC 2026 ML Challenge: Commercial EDFA Gain Profile Prediction
 
 This year's challenge focuses on training models to predict gain profiles for **Commercial Erbium-Doped Fiber Amplifiers (EDFAs)**. EDFAs are critical components in optical communication systems, and accurate gain profile prediction is essential for optimizing network performance and reliability.
-
-## Challenge Details
-
-- **Objective**: Develop Theoretical, analytical or ML models that can accurately predict the gain profile of commercial EDFAs under various operating conditions
-- **Dataset**: Real-world EDFA data collected from commercial systems
-- **Evaluation**: Models will be scored based on prediction accuracy under different operating condition and aspects
-- **Prize**: The highest-scoring model will receive an invitated submission to **IEEE/Optica Journal of Lightwave Technology(JLT)**
 
 ## Why This Matters
 
@@ -25,6 +17,19 @@ EDFA gain profile prediction is crucial for:
 - Dynamic power management
 - System reliability and performance monitoring
 - Cost-effective network operations
+
+
+
+
+
+- [COSMOS EDFA Dataset on GitHub](https://github.com/functions-lab/COSMOS-EDFA-Dataset)
+
+## Challenge Details
+
+- **Objective**: Develop Theoretical, analytical or ML models that can accurately predict the gain profile of commercial EDFAs under various operating conditions
+- **Dataset**: Real-world EDFA data collected from commercial systems
+- **Evaluation**: Models will be scored based on prediction accuracy under different operating condition and aspects
+- **Prize**: The highest-scoring model will receive an invitated submission to **IEEE/Optica Journal of Lightwave Technology(JLT)**
 
 ## Important Dates
 
