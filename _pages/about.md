@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Challenge for Optical Applications
-
-
+# subtitle: Machine Learning Challenge for Optical Applications
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -20,71 +18,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the **OFC ML Challenge**!
+In recent years, machine learning (ML) has proven to be a transformative tool in modeling and understanding complex real-world data and systems. Its applications have revolutionized fields such as natural language processing, image processing, and radio frequency (RF) systems. In addition to contributions from industry and academia, the scientific advances in these fields have also been driven in part by challenges organized by the broader community, leveraging large-scale datasets such as [MNIST](https://en.wikipedia.org/wiki/MNIST_database), [ImageNet](https://image-net.org/challenges/LSVRC/index.php), and [RF signal classification](https://rfchallenge.mit.edu/). Recent breakthroughs have also shown the potential of using ML to improve modeling, performance prediction, and resource provisioning in optical networks across various scales. However, despite the growing number of works, the field still lacks, to the best of our knowledge, universal benchmarks with structured datasets to guide the community in pushing forward the frontier in this research direction.
 
-This is an official Optica event and part of the **OFC (Optical Fiber Communication Conference)** series. The challenge brings together researchers, engineers, and data scientists to tackle real-world problems in optical communications through both theretical, analytical and machine learning model.
+We are proud to anounce the first OFC 2026 ML Challenge. For more information including objectives, timeline, prizes, materials, and submission instructions, please visit the [ML Challenge page](/ml-challenge/).
 
-## 2025 Challenge: Commercial EDFA Gain Profile Prediction
+## Deadline 
+The submission deadline of the OFC'26 ML Challenge will be **Dec. 15, 2026**
 
-This year's challenge focuses on training models to predict gain profiles for **Commercial Erbium-Doped Fiber Amplifiers (EDFAs)**. EDFAs are critical components in optical communication systems, and accurate gain profile prediction is essential for optimizing network performance and reliability.
+## Related Events
 
-### Challenge Details
+Looking for more opportunities to contribute to the optical networking community? Check out these related events and resources!
 
-- **Objective**: Develop ML models that can accurately predict the gain profile of commercial EDFAs under various operating conditions
-- **Dataset**: Real-world EDFA data from commercial systems
-- **Evaluation**: Models will be scored based on prediction accuracy and computational efficiency
-- **Prize**: The highest-scoring model will receive an invitation to demonstrate their solution at the **OFC'26 conference**
+- [OFC 2026 Dataset Submission – Call for Datasets](https://www.ofcconference.org/program/dataset-submission)
 
-### Why This Matters
 
-EDFA gain profile prediction is crucial for:
-- Network planning and optimization
-- Dynamic power management
-- System reliability and performance monitoring
-- Cost-effective network operations
-
-## Important Dates
-
-- **Competition launch with dataset and instructions release**: Sept. 15, 2025
-- **Submission deadline**: Dec. 15, 2025
-- **Finalists announced**: Jan. 15, 2026
-- **Live competition and winners announced**: During OFC 2026 (Mar. 15–19)
-
-## Submission Details
-
-submit to google form [here](mailto:zehao.w@duke.edu).
-
-### How to Submit Your Predictions
-
-1. **Format Requirements**:
-   - Submit your predictions in CSV format
-   - Include columns for: `sample_id`, `predicted_gain_profile`
-   - Ensure predictions match the expected output format specified in the challenge documentation
-
-2. **Submission Process**:
-   - Upload your prediction file through the official submission portal
-   - Include a brief description of your methodology and approach
-   - Provide source code and model documentation (optional but recommended)
-
-3. **Evaluation Criteria**:
-   - Prediction accuracy (primary metric)
-   - Computational efficiency
-   - Model interpretability
-   - Innovation in approach
-
-4. **Technical Requirements**:
-   - Maximum file size: 100MB
-   - Supported formats: CSV, JSON
-   - Include model inference time for efficiency evaluation
-
-For detailed submission guidelines and technical specifications, please refer to the challenge documentation and FAQ section.
-
-## Questions?
-
-If you have any questions about the challenge, submission process, or technical requirements, please don't hesitate to reach out:
-
-**Contact**: [zehao.w@duke.edu](mailto:zehao.w@duke.edu)
-
-We're here to help ensure your participation is smooth and successful!
-
-Join us in advancing the state-of-the-art in optical communications through innovative machine learning approaches!
+Share your datasets, help build universal benchmarks, and be part of the inaugural dataset submission at OFC 2026. Learn more about submission categories, deadlines, and recognition opportunities on the official event page.
