@@ -13,13 +13,12 @@ nav_order: 3
 - **Competition launch with dataset and instructions release**: Sept. 15, 2025
 - **Submission deadline**: Dec. 15, 2025
 - **Finalists announced**: Jan. 15, 2026
-- **Live competition and winners announced**: During OFC 2026 (Mar. 15–19)
+- **Live competition and winners announced**: During OFC 2026 (Mar. 15–19) [tentative]
 
-## Prizes
+## Award
 
-- **Invited papers** from the ML Challenge winner to the **IEEE/Optica Journal of Lightwave Technology(JLT)**
+- **Invited papers** from the ML Challenge winner to the **IEEE/Optica Journal of Lightwave Technology(JLT)** or **IEEE/Optica Journal of Optical Communications and Networking(JOCN)**
 - A **dedicated repository** for hosting all the ML Challenge results and the leaderboard
-- Prizes (e.g., GPUs supported by Industry) support research for the future
 
 ## Submission Details
 
