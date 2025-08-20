@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ofc-ml-challenge.github.io/sitemap.xml
+Sitemap: https://ofc-ml-challenge.github.io/ofc-ml-challenge/sitemap.xml
