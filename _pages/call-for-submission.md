@@ -7,9 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-
-
 ### Important Dates
+
 - **Competition launch with dataset and instructions release**: Sept. 15, 2025
 - **Submission deadline**: Dec. 15, 2025
 - **Finalists announced**: Jan. 15, 2026
@@ -25,6 +24,7 @@ nav_order: 3
 Submit to google form [here](mailto:zehao.w@duke.edu).
 
 ## Questions?
+
 If you have any questions about the submission process, please contact:
 
-**Email**: [zehao.w@duke.edu](mailto:zehao.w@duke.edu) 
+**Email**: [zehao.w@duke.edu](mailto:zehao.w@duke.edu)

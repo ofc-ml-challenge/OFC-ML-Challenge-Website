@@ -22,7 +22,8 @@ In recent years, machine learning (ML) has proven to be a transformative tool in
 
 We are proud to anounce the first OFC 2026 ML Challenge. For more information including objectives, timeline, prizes, materials, and submission instructions, please visit the [ML Challenge page](/ml-challenge/).
 
-## Deadline 
+## Deadline
+
 The submission deadline of the OFC'26 ML Challenge will be **Dec. 15, 2026**
 
 ## Related Events
@@ -30,6 +31,5 @@ The submission deadline of the OFC'26 ML Challenge will be **Dec. 15, 2026**
 Looking for more opportunities to contribute to the optical networking community? Check out these related events and resources!
 
 - [OFC 2026 Dataset Submission – Call for Datasets](https://www.ofcconference.org/program/dataset-submission)
-
 
 Share your datasets, help build universal benchmarks, and be part of the inaugural dataset submission at OFC 2026. Learn more about submission categories, deadlines, and recognition opportunities on the official event page.
