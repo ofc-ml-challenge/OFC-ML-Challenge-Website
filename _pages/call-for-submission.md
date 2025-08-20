@@ -21,10 +21,10 @@ nav_order: 3
 
 ## Submission Details
 
-Submit to google form [here](mailto:zehao.w@duke.edu).
+Please submit your predicted `csv` file to this year [Kaggle submission platform](https://www.kaggle.com/t/6b41bccbf1a04782b7b3f4bc3f21041b)
 
 ## Questions?
 
 If you have any questions about the submission process, please contact:
 
-**Email**: [zehao.w@duke.edu](mailto:zehao.w@duke.edu)
+**Email**: [ofc.ml.challenge@gmail.com](mailto:ofc.ml.challenge@gmail.com)

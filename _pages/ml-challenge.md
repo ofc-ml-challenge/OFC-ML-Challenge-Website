@@ -33,4 +33,8 @@ Especially under dynamic channel loading conditions. Recently, researchers achei
 ## Dataset repo
 
 - We will provide all the codes for pre-processing the measurements data and a simple ML-based model just for reference
-- Please refer to the [dataset website](https://github.com/optica-ml-challenge/OFC-ML-Challenge) for more details
+- Please refer to the [dataset website](https://github.com/ofc-ml-challenge/ofc-ml-challenge-test) for more details
+
+## Results submission 
+
+- Please submit your predicted `csv` file to this year [Kaggle submission platform](https://www.kaggle.com/t/6b41bccbf1a04782b7b3f4bc3f21041b)
